@@ -1,4 +1,7 @@
 cool
 compto for life
 hello world
-world
+<<<<<<< HEAD
+=======
+goodbye
+>>>>>>> maria
